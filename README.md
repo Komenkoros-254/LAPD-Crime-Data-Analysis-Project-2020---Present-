@@ -11,7 +11,7 @@ This project focuses on extracting tactical public safety insights from the offi
 
 ## 📖 Read the Full Analysis on Medium
 I have published a detailed breakdown of the strategic and public-policy questions this analysis solves. 
-🔗 **[Read the full article on Medium](PASTE_YOUR_MEDIUM_STORY_LINK_HERE)**
+🔗 **[Read the full article on Medium]((https://medium.com/@komenkoros1999/decoding-urban-crime-how-data-analytics-transforms-public-safety-297f70859e3d))**
 
 ---
 
@@ -32,7 +32,7 @@ The structured SQL script in this repository solves five fundamental public safe
 ---
 
 ## 🛠️ Getting Started / How to Use
-1. **Download the Dataset:** Obtain the raw source data from the [LA City Open Data Portal](https://data.lacity.org/).
+1. **Download the Dataset:** Obtain the raw source data from the (https://www.kaggle.com/datasets/ishajangir/crime-data)).
 2. **Initialize Schema:** Run the first block of `lapd_crime_analysis.sql` in pgAdmin or your preferred PostgreSQL CLI to create the `lapd_crime_data` table.
 3. **Import Data:** Use the pgAdmin Import/Export tool or the SQL `COPY` command to map your downloaded CSV columns into the structured schema.
 4. **Execute Queries:** Run the documented queries sequentially to generate the statistical backend reporting.
