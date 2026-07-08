@@ -11,7 +11,7 @@ This project focuses on extracting tactical public safety insights from the offi
 
 ## 📖 Read the Full Analysis on Medium
 I have published a detailed breakdown of the strategic and public-policy questions this analysis solves. 
-🔗 **[Read the full article on Medium]((https://medium.com/@komenkoros1999/decoding-urban-crime-how-data-analytics-transforms-public-safety-297f70859e3d))**
+🔗 **[Read the full article on Medium]https://medium.com/@komenkoros1999/decoding-urban-crime-how-data-analytics-transforms-public-safety-297f70859e3d**
 
 ---
 
